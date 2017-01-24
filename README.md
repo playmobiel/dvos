@@ -1,7 +1,4 @@
----
-title: My page
-permalink: mypageurl.html
----
+
 
 ## Welcome to GitHub Pages
 
